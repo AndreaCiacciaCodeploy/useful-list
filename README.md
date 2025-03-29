@@ -13,6 +13,10 @@ Cercherò di arricchire l'elenco e tenerlo aggiornato aggiugendo eventuali infor
 - https://fvm.app/
 - https://getpantry.cloud/
 - https://jsonbin.io/
+- https://supabase.com/
+- https://www.langchain.com/
+- https://cheshirecat.ai/
+- https://www.crewai.com/
 
 ### documentation
 - https://docusaurus.io/
@@ -37,6 +41,14 @@ Cercherò di arricchire l'elenco e tenerlo aggiornato aggiugendo eventuali infor
 
 ### game software
 - https://www.construct.net/en
+
+### ai tools
+- https://chat.openai.com
+- https://plusai.com/
+- https://pollo.ai/
+- https://www.perplexity.ai/
+- https://claude.ai/
+
 
 
 
